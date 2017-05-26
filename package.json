@@ -1,0 +1,15 @@
+{
+  "name": "node-web-server3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js -e js,hbs"
+  },
+  "author": "thekho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hbs": "^4.0.1"
+  }
+}
